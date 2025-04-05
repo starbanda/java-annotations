@@ -1,4 +1,4 @@
-package com.bridgeLabz.annotations;
+package org.example;
 
 class Animal {
     void makeSound() {
