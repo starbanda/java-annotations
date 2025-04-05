@@ -15,6 +15,7 @@ public class LegacyAPI {
         LegacyAPI api = new LegacyAPI();
         api.oldFeature();
         api.newFeature();
+
     }
 
 }
