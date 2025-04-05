@@ -1,4 +1,4 @@
-package com.bridgelabz.annotations;
+package com.bridgeLabz.annotations;
 
 import java.util.ArrayList;
 
